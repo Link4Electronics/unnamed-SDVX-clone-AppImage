@@ -11,9 +11,9 @@
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest) | [Click here](https://github.com/Drewol/unnamed-sdvx-clone) |
+| Latest Stable Release | Latest Nightly Release | Upstream URL |
+| :---: | :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/tag/nightly) | [Click here](https://github.com/Drewol/unnamed-sdvx-clone) |
 
 </div>
 
