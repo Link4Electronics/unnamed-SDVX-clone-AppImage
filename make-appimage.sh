@@ -12,7 +12,7 @@ export ICON=https://raw.githubusercontent.com/Drewol/unnamed-sdvx-clone/refs/hea
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /opt/unnamed-sdvx-clone
+quick-sharun ./AppDir/bin/*
 
 # Additional changes can be done in between here
 
@@ -21,4 +21,4 @@ quick-sharun --make-appimage
 
 # Test the app for 12 seconds, if the test fails due to the app
 # having issues running in the CI use --simple-test instead
-quick-sharun --test ./dist/*.AppImage
+quick-sharun --simple-test ./dist/*.AppImage
