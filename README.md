@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/unnamed-SDVX-clone-AppImage)](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/Drewol/unnamed-sdvx-clone/refs/heads/develop/appimage/usc-game.png" width="128" />
 </p>
 
 
