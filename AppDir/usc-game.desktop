@@ -6,4 +6,4 @@ Comment=A game based on K-Shoot MANIA and Sound Voltex
 Exec=usc-game
 Icon=usc-game
 Terminal=false
-StartupWMClass=
+StartupWMClass=usc-game
