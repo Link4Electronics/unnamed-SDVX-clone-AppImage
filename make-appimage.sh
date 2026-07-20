@@ -11,6 +11,7 @@ export ICON=https://raw.githubusercontent.com/Drewol/unnamed-sdvx-clone/refs/hea
 export DESKTOP=https://raw.githubusercontent.com/Drewol/unnamed-sdvx-clone/refs/heads/develop/appimage/usc-game.desktop
 export DEPLOY_OPENGL=1
 export STARTUPWMCLASS=usc-game
+export APPNAME=Unnamed_SDVX_clone
 
 # Deploy dependencies
 quick-sharun ./AppDir/bin/*
